@@ -1,0 +1,44 @@
+.homeTd {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 5px 20px;
+}
+
+.Texto {
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: justify;
+    font-size: 18px;
+}
+
+.homeTab{
+    padding: 10px 25px;
+    border: 2px dashed #a27700;
+    border-radius: 10px;
+}
+
+.h2_home{   
+    color: rgb(189, 145, 0);
+    font-family:'Courier New', Courier, monospace;
+}
+
+.aHome{
+    padding: 5px;
+}
+
+.linhaMenu {
+    width: 100%;
+    height:1px;
+    margin-top: -1;
+    background:#ebe8f3;
+}
+
+.homePageGeral {
+    height: 100vh;
+}
+
+.footerHome {
+    background-color: #12162c;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 15%;
+}

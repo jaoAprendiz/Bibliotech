@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+  color: white;
+  background-image: linear-gradient(to right, #191970, #131830);
+  font-family: 'Conforta', cursive;
+  min-height: 100%;
+}
+
+.btnNavBarFacaLogin {
+  width: 30%;
+  padding: 16px 0px;
+  margin: 25px;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family:'Manrope', sans-serif;
+  letter-spacing: 1px;
+  color: #ebe8f3;
+  background: #946d13;
+  cursor: pointer;
+}
+
+nav {
+  height: 100px;
+  background: #171762;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 10%;
+  box-sizing: border-box;
+}
+
+.btn-logout {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  align-items: center;
+  margin-left: 5vw;
+  transition: all 0.3s ease 0s;
+}
+
+nav a {
+  font-family: 'Conforta', cursive;
+  text-decoration: none;
+  font-weight: 500px;
+  font-size: 18px;
+  color: #fff;
+  padding: 0 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+
+nav a:hover {
+  color: #946d13;
+}
+
+.navBarLogo {
+  cursor: pointer;
+}

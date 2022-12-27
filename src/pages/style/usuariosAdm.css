@@ -1,0 +1,98 @@
+.usuariosAdmPage {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tab_cli_adm {
+    width: 70%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+.td_cli_adm ,.tr_res_adm{
+    padding: 7px;
+    border: 1px solid rgb(0, 11, 79);
+    border-radius: 7px;
+    height: 30px;
+  }
+  
+.tr_cli_adm:first-child{
+  text-align: center;
+  color:rgb(0, 48, 79);
+  background-color: #946d13;
+  Font-weight: bold
+  } 
+   
+.td_cli_adm:hover{background-color:#ffffff25}
+
+.btn-maisreserva-cli-adm{
+    border: none;
+    margin-left: 20px;
+    margin: 10px;
+    color: white;
+    background: hsla(0, 0%, 0%, 0);
+    padding: 10px 20px;
+    text-align: center;
+    display:inline-block;
+    text-decoration:none;
+    font-size: 14px;
+    border: 1px dashed #bfbfbf;
+    border-radius: 5px;
+    position:relative;
+    cursor: pointer;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.h2_cli_adm{
+    color: rgb(193, 192, 192);
+    text-align: center;
+}
+
+.td_cli_adm > input {
+  width: 90%;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgba (255,255,255,.1);
+  color: #111111;
+  margin-top: 10px;
+}
+.td_cli_adm > select {
+  width: 90%;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgba (255,255,255,.1);
+  color: #111111;
+  margin-top: 10px;
+}
+
+.td_cli_adm_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.td_cli_adm_btn > button {
+    width: 60px;
+  padding: 10px 0px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  font-weight: bold;
+  font-family:'Manrope', sans-serif;
+  letter-spacing: 1px;
+  color: #ebe8f3;
+  background: #946d13;
+  cursor: pointer;
+}
+
+.footerUsuarioAdm {
+  background-color: #12162c;
+  padding: 20px 0;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

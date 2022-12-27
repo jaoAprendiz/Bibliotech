@@ -1,0 +1,110 @@
+.mainConfig {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-box {
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+.card-config {
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background: #011f3c9c;
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px #00000056;
+}
+
+.card-config > h1 {
+    color: #8d6b1d;
+}
+
+.card-config > label {
+    font-weight: 500;
+    font-size: 20px;
+}
+  
+.configTextField {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.configTextField > input {
+    height: 50px;
+    width: 75%;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: rgba (255,255,255,.1);
+    color: #111111;
+    font-size: 14pt;
+    box-shadow: 0px 10px 40px #00000056;
+    outline: none;
+    box-sizing: border-box;
+    margin-right: 10px;
+}
+
+.configTextField > button {
+    width: 25%;
+    padding: 16px 0px;
+    margin: 15px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family:'Manrope', sans-serif;
+    letter-spacing: 1px;
+    color: #ebe8f3;
+    background: #8d6b1d;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
+
+.trocarDataNascimento {
+    width: 95%;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: rgba (255,255,255,.1);
+    color: #111111;
+    font-size: 14pt;
+    box-shadow: 0px 10px 40px #00000056;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.avatar {
+    margin: 5px;
+    width: 5vw;
+    height: 5vw;
+}
+
+.setImagemPerfil {
+    display: flex;
+    flex-direction: column;
+}
+
+.footerConfig {
+    background-color: #12162c;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 10%;
+  }
+
+
+
