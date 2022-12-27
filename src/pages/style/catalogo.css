@@ -1,0 +1,138 @@
+.catalogoPage {
+    width: 100%;
+    min-height: calc(100vh - 80px);
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  .outLineCatalogo {
+    background: #964b00;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .catalogoPage .catalogo {
+    width: 400px;
+    height: auto;
+    max-height: 400px;
+    background-color: rgb(250, 250, 250);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+  }
+  
+  .catalogo .catalogoHeader {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .catalogoHeader .title {
+    flex: 50%;
+    color: black;
+  }
+  .catalogoHeader .deletePost {
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  
+  .deletePost button {
+    border: none;
+    background: none;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  
+  .catalogo .catalogoTextContainer {
+    word-wrap: break-word;
+    height: auto;
+    max-height: 400px;
+    width: 100%;
+    overflow: hidden;
+    overflow-y: auto;
+    color: black;
+  }
+
+  .catalogo > h3 {
+    color: black;
+  }
+
+  .btnCatalogoReservar {
+    width: 40%;
+    padding: 16px 0px;
+    margin: 5px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #ebe8f3;
+    background: #000;
+    cursor: pointer;
+  }
+  
+  .border {
+    background: #000;
+    width: 180px;
+    background-color: transparent;
+    transition: width 2s ease-in-out;
+  }
+
+  .border:focus {
+    width: 400px;
+  }
+
+  .searchbarContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #formPesquisar {
+    background: #fff;
+    width: 600px;
+    height: 55px;
+    display: flex;
+    border-radius: 10px;
+  }
+
+  #formPesquisar input {
+    flex: 1;
+    border: none;
+    outline: none;
+  }
+
+  #formPesquisar button {
+    background: #b58500;
+    padding: 10px 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family:'Manrope', sans-serif;
+  }
+
+#formPesquisar .lupaPesquisa {
+  align-self: center;
+  padding: 10px 20px;
+  color: #777;
+}
+
+.footerCatalogo {
+  background-color: #12162c;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: 5%;
+}

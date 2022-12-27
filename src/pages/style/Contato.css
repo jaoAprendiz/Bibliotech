@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+   }
+
+   .contatoPage {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+
+   .left-contato {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   }
+
+   .left-contato > h1 {
+    color: #daa520;
+   }
+
+   .formContato {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px; 
+    background: #011f3c9c;
+    border-radius: 20px;
+    box-shadow: 0 10px 40px rgb(0, 2, 24);
+   }
+
+.formContato > h1 {
+  color: #daa520;
+  font-weight: 800;
+  margin: 0;
+}
+
+.contatoTextField {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin: 10px 0px;
+}
+
+.contatoTextField > input {
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: azure;
+  color: #000;
+  font-size: 12pt;
+  box-shadow: 0 10px 40px rgb(0, 2, 24);
+  outline: none;
+  box-sizing: border-box;
+}
+
+.contatoTextField > label {
+  color: #f0ffffde;
+  margin-bottom: 10px;
+}
+
+.contatoTextField > input::placeholder {
+  color: #f0ffffde;
+}
+
+.contatoTextField > textarea {
+  width: 100%;
+  height: 100px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: azure;
+  color: #000;
+  font-size: 12pt;
+  box-shadow: 0 10px 40px rgb(0, 2, 24);
+  outline: none;
+  box-sizing: border-box;
+}
+
+.contatoTextField > textarea::placeholder {
+  color: #f0ffffde;
+}
+
+.btn-contato {
+  width: 100%;
+  padding: 16px 0px;
+  margin: 25px;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family:'Manrope', sans-serif;
+  letter-spacing: 1px;
+  color: #ebe8f3;
+  background: #946d13;
+  cursor: pointer;
+}
+
+.left-contato-image {
+  width: 35vw;
+}
+
+.footerContato {
+  background-color: #12162c;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+
+

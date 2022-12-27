@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+/* body * {
+  box-sizing: border-box;
+} */
+
+.main-registrar-livro{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.center-box-registrar-livro {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-registrar-livro {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 30px 35px;
+  background: #011f3c9c;
+  border-radius: 20px;
+  box-shadow: 0px 10px 40px #806200;
+}
+.card-registrar-livro > h3 {
+    color: #daa520;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .linhaCatalogarAdm{
+    width: 100%;
+    height:1px;
+    margin:20px 0 20px 0;
+    background:#ebe8f3;
+  }
+  
+  
+  .textfieldCatalogarAdm {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 10px 0px;
+  }
+  
+  .textfieldCatalogarAdm > input {
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgba (255,255,255,.1);
+    color: #111111;
+    font-size: 14pt;
+    box-shadow: 0px 10px 40px #00000056;
+    outline: none;
+    box-sizing: border-box;
+  }
+  
+  .textfieldCatalogarAdm > label {
+    color: #a27700;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .textfieldCatalogarAdm > input::placeholder {
+    color: #c7c7c8;
+  }
+  
+  input:focus, textarea:focus {
+    border: 2px solid #946d13;
+  }
+  
+  .btn-registrar-livro {
+    width: 100%;
+    padding: 16px 0px;
+    margin: 25px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family:'Manrope', sans-serif;
+    letter-spacing: 1px;
+    color: #ebe8f3;
+    background: #946d13;
+    cursor: pointer;
+  }
+  
+  .btn-registrar-livro:hover {
+    background-color:  #be9d50;
+    cursor: pointer;
+  }
+
+.footerCadItem {
+  background-color: #12162c;
+  padding: 20px 0;
+  text-align: center;
+  margin-top: 10%;
+}
