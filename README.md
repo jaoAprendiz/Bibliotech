@@ -97,7 +97,7 @@
 
 ### Usuários Admin
 <div>
- <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057385857348292659/UsuariosAdm.jpg><br>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057385857348292659/UsuariosAdm.jpg"><br>
 </div>
 
 ### Perfil do Admin
