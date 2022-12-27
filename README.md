@@ -1,3 +1,110 @@
+# Bibliotech :book:
+  
+  <div>
+    <p>O presente projeto trata-se de um estudo sobre a Biblioteca da Etec Raposo Tavares. O trabalho foi aplicado de maneira a desenvolver uma forma de atualizá-la. Esse plano tem como objetivo geral, além da atualização, a relação com novas tecnologias, aumentando a praticidade para uso da mesma.  De acordo com a pesquisa de campo desenvolvida, foi possível mostrar que a comunidade escolar se encontrava insatisfeita com o uso da biblioteca, sendo notório as medidas de intervenção tomadas. Os métodos utilizados no projeto tiveram a intenção de serem práticos na utilização, tanto dos alunos quanto dos professores, de forma que seja mais qualitativo e tecnológico. Desta forma, foi desenvolvido uma página web na qual foram aprimoradas todas as funções necessárias para o uso.</p><br>
+</div>
+  
+  ## AUTHORS
+<div><br>
+-> João Victor Soave (React / JavaScript)<br>
+-> Carlos Eduardo Gonçalves de França (React / JavaScript)<br>
+-> Ingryd Santos Pereira (CSS)<br>
+</div>
+  
+  <br><br>
+  
+  ## CONTATO DOS COLABORADORES!! :email:
+<div>
+    <p>João Victor Soave:</p>
+    <a href = "mailto:joaosoave94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "https://github.com/jvsoave"><img src="https://cdn.discordapp.com/attachments/796077210720272394/903059198881968158/logo_github_icon_143196.png" target="_blank" height="30" width="40" ></a><br>
+    <p>Carlos Eduardo Gonçalves de França:</p>
+    <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+    <p>Ingryd Santos Pereira:</p>
+    <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+</div>
+
+<br><br>
+
+## IMAGENS DO PROJETO 🎴
+
+<br>
+
+### Início
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057382382656815155/Inicio.jpg"><br>
+</div>
+
+### Login
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057383802223214722/Login.jpg"><br>
+</div>
+
+### Esqueci minha senha
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057384349558911068/Esqueci_a_Senha.jpg"><br>
+</div>
+
+### Cadastro
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057384460842180729/Cadastro.jpg"><br>
+</div>
+
+### Home do Cliente
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057382694792728658/Home.jpg"><br>
+</div>
+
+### Catálogo do Clinete
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057382894420623431/Catalogo.jpg"><br>
+</div>
+
+### Reservas do Cliente
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057383389788917850/Reservas.jpg"><br>
+</div>
+
+### Contato para o Cliente
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057383574577352834/Contato.jpg"><br>
+</div>
+
+### Perfil do Cliente
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057384551913111592/ConfigUsuario.jpg"><br>
+</div>
+
+### Home do Admin
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057384783350611989/HomeAdm.jpg"><br>
+</div>
+
+### Catálogo do Admin
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057385187136258088/CatalogoAdm.jpg"><br>
+</div>
+
+### Página para catalogar os materiais do Admin
+<div>
+ <img src="https://media.discordapp.net/attachments/1057382209725673524/1057385408540971088/CadastrarItem.jpg?width=1181&height=671"><br>
+</div>
+
+### Reservas Admin
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057385758454972498/ReservasAdm.jpg"><br>
+</div>
+
+### Usuários Admin
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057385857348292659/UsuariosAdm.jpg><br>
+</div>
+
+### Perfil do Admin
+<div>
+ <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057386065427693578/ConfigUsuarioAdm.jpg"><br>
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
