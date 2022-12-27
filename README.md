@@ -105,6 +105,7 @@
 <div>
  <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057386065427693578/ConfigUsuarioAdm.jpg"><br>
 </div>
+<br></br>
 
 # Getting Started with Create React App
 
