@@ -1,7 +1,7 @@
 # Bibliotech :book:
   
   <div>
-    <p>O presente projeto trata-se de um estudo sobre a Biblioteca da Etec Raposo Tavares. O trabalho foi aplicado de maneira a desenvolver uma forma de atualizá-la. Esse plano tem como objetivo geral, além da atualização, a relação com novas tecnologias, aumentando a praticidade para uso da mesma.  De acordo com a pesquisa de campo desenvolvida, foi possível mostrar que a comunidade escolar se encontrava insatisfeita com o uso da biblioteca, sendo notório as medidas de intervenção tomadas. Os métodos utilizados no projeto tiveram a intenção de serem práticos na utilização, tanto dos alunos quanto dos professores, de forma que seja mais qualitativo e tecnológico. Desta forma, foi desenvolvido uma página web na qual foram aprimoradas todas as funções necessárias para o uso.</p><br>
+    <p>O presente projeto trata-se de um TCC e estudo sobre a Biblioteca da Etec Raposo Tavares. O trabalho foi aplicado de maneira a desenvolver uma forma de atualizá-la. Esse plano tem como objetivo geral, além da atualização, a relação com novas tecnologias, aumentando a praticidade para uso da mesma.  De acordo com a pesquisa de campo desenvolvida, foi possível mostrar que a comunidade escolar se encontrava insatisfeita com o uso da biblioteca, sendo notório as medidas de intervenção tomadas. Os métodos utilizados no projeto tiveram a intenção de serem práticos na utilização, tanto dos alunos quanto dos professores, de forma que seja mais qualitativo e tecnológico. Desta forma, foi desenvolvido uma página web na qual foram aprimoradas todas as funções necessárias para o uso.</p><br>
 </div>
   
   ## AUTHORS
@@ -22,7 +22,8 @@
     <a href = "mailto:caduhgfra17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://github.com/CarlosEgF"><img src="https://cdn.discordapp.com/attachments/796077210720272394/903059198881968158/logo_github_icon_143196.png" target="_blank" height="30" width="40" ></a><br>
     <p>Ingryd Santos Pereira:</p>
-    <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+    <a href = "mailto:Ingrydsantospereira2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "https://github.com/fhvjghbj"><img src="https://cdn.discordapp.com/attachments/796077210720272394/903059198881968158/logo_github_icon_143196.png" target="_blank" height="30" width="40" ></a><br>
 </div>
 
 <br><br>
