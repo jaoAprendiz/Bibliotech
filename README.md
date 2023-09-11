@@ -57,7 +57,7 @@
  <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057382694792728658/Home.jpg"><br>
 </div>
 
-### Catálogo do Clinete
+### Catálogo do Cliente
 <div>
  <img src="https://cdn.discordapp.com/attachments/1057382209725673524/1057382894420623431/Catalogo.jpg"><br>
 </div>
