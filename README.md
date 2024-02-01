@@ -17,7 +17,7 @@
 <div>
     <p>João Victor Soave:</p>
     <a href = "mailto:joaosoave94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "https://github.com/jvsoave"><img src="https://cdn.discordapp.com/attachments/796077210720272394/903059198881968158/logo_github_icon_143196.png" target="_blank" height="30" width="40" ></a><br>
+    <a href = "https://github.com/siigAprendiz"><img src="https://cdn.discordapp.com/attachments/796077210720272394/903059198881968158/logo_github_icon_143196.png" target="_blank" height="30" width="40" ></a><br>
     <p>Carlos Eduardo Gonçalves de França:</p>
     <a href = "mailto:caduhgfra17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://github.com/CarlosEgF"><img src="https://cdn.discordapp.com/attachments/796077210720272394/903059198881968158/logo_github_icon_143196.png" target="_blank" height="30" width="40" ></a><br>
